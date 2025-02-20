@@ -9,6 +9,8 @@
     - Hỗ trợ file `settings.txt` để tự động bật/tắt chức năng khi mở game
     - Hỗ trợ bật/tắt chức năng bằng câu lệnh chat
     - Hỗ trợ thay đổi câu lệnh chat trong file `command.txt`
+    - Tự động cập nhật
+    - Hỗ trợ gõ tiếng việt
 
 # Sử dụng 🫰
 - Tải xuống phiên bản mới nhất [NHẤN VÀO ĐÂY ĐỂ TẢI]()
