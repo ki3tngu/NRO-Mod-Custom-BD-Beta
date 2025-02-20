@@ -4,7 +4,6 @@
    - Tự do tùy chỉnh bản mod
      - phím gán cho kỹ năng
      - phím gán cho chức năng của bản mod
-     - tùy chỉnh thông số
     - Hỗ trợ phím tắt để bật/tắt nhanh chức năng trong file `key.txt`
     - Hỗ trợ file `settings.txt` để tự động bật/tắt chức năng khi mở game
     - Hỗ trợ bật/tắt chức năng bằng câu lệnh chat
