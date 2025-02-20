@@ -14,7 +14,7 @@
 # Sử dụng 🫰
 <div align="center">
  
- <img src="https://www.pngarts.com/files/2/Download-Button-PNG-Background-Image.png" height="100px;"><a href="https://www.facebook.com" target="_blank"></a></img>
+<a href="https://www.facebook.com" target="_blank"> <img src="https://www.pngarts.com/files/2/Download-Button-PNG-Background-Image.png" height="100px;"></a>
 </div>
  
 - Câu lệnh chat ( thay thế _X bằng giá trị cụ thể, ví dụ `speed 5` )
